@@ -1,0 +1,30 @@
+.content{
+	text-align: center;
+	margin-right: 10%;
+	margin-top: 4%;
+	color: red;
+	text-decoration-color: rgb(25,180,45);
+}
+body{
+	background-image: url("bb.jpg");
+	background-size: cover;
+}
+.res{
+	
+	border-radius: 50%;
+	border-color: #03494A;
+	font-size: 20px;
+	font-family: sans-serif;
+	padding:10px;
+}
+
+.score{
+	font-size: 200px;
+	text-align: center;
+	margin-right: 10%;
+	margin-left: 15%;
+	padding-top: 15%
+	font-size : 250%;
+	border-radius : 20px;
+	background-color: green;
+}
