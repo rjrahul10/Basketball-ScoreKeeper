@@ -5,6 +5,12 @@
 	color: red;
 	text-decoration-color: rgb(25,180,45);
 }
+.head{
+color: #FFEF68;
+font-size: 35px;
+font-weight: 20%;
+font-family: Roboto;
+}
 body{
 	background-image: url("bb.jpg");
 	background-size: cover;
@@ -19,12 +25,22 @@ body{
 }
 
 .score{
-	font-size: 200px;
+	font-size: 250px;
 	text-align: center;
-	margin-right: 10%;
-	margin-left: 15%;
+	margin-right: 7%;
+	margin-left: 10%;
 	padding-top: 15%
 	font-size : 250%;
 	border-radius : 20px;
 	background-color: green;
+}
+.points{
+	font-size: 30px;
+	background-color: #2A22CB;
+	border-radius: 50%;
+}
+.ps{
+	margin-right: 10%;
+	margin-left: 15%;
+	text-align: center;
 }
