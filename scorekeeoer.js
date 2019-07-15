@@ -34,6 +34,6 @@ b3.addEventListener("click", function(){
 	a2s.textContent = score2; 
 })
 reset.addEventListener("click", function(){
-	score2 ,score1 =0;
+	score2 = score1 =0;
 	a1s.textContent =a2s.textContent = 0;
 })
